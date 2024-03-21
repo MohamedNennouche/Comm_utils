@@ -1,12 +1,16 @@
-- [ ] Installer commPy
-- [ ] Tester commPy
+- [x] Installer commPy
+- [x] Tester commPy
 - [ ] Voir les limites de commPy en terme de modulation QAM et PSK
 - [ ] Techniques de modulations
     - [ ] Mettre en place les modulations single carrier
-        - [ ] OOK
-            - [ ] Ajouter démodulation avec seuil optimal
-        - [ ] M-PPM (je pense je m'arrête à 4)
+        - [x] OOK
+        - [x] M-PPM (je pense je m'arrête à 4)
         - [ ] M-PAM
+        - [ ] Démodulateur
+            - [ ] OOK
+            - [ ] OOK avec seuil optimal
+            - [ ] 4PPM
+            - [ ] M-PAM
     - [ ] Généraliser pour QAM
     - [ ] Généraliser pour PSK (BPSK, QPSK)
     - [ ] Mettre en place l'OFDM
